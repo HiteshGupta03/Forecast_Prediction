@@ -6,13 +6,21 @@ It involves data cleaning, visualization, stationarity testing, and predictive m
 
 **Table of Contents**
 Introduction
+
 Features
+
 Workflow
+
 Technologies Used
+
 Setup Instructions
+
 Usage
+
 Results
+
 Future Enhancements
+
 License
 
 **Introduction**
