@@ -4,7 +4,9 @@ Forecast Prediction Using Python and Machine Learning
 This project demonstrates time series analysis and forecasting using ARIMA and SARIMA models. 
 It involves data cleaning, visualization, stationarity testing, and predictive modeling on sales data.
 
+
 **Table of Contents**
+
 Introduction
 
 Features
@@ -22,6 +24,7 @@ Results
 Future Enhancements
 
 License
+
 
 **Introduction**
 
@@ -69,7 +72,6 @@ This project focuses on forecasting monthly sales data using time series analysi
      .  Visualized actual vs forecasted sales.
 
 
-
 **Workflow**
 
 1.  Data Import:
@@ -90,6 +92,7 @@ This project focuses on forecasting monthly sales data using time series analysi
 
 6.  Forecasting:
      . Predicted sales for future timeframes.
+
 
 **Technologies Used**
 
@@ -119,6 +122,7 @@ This project focuses on forecasting monthly sales data using time series analysi
 
 4. Ensure the dataset (perrin-freres-monthly-champagne-.csv) is in the project directory.
 
+
 **Usage**
 
 1.  Run the script:
@@ -143,6 +147,7 @@ This project focuses on forecasting monthly sales data using time series analysi
      . Application of ARIMA and SARIMA for accurate sales forecasting.
      
      . Visualization of actual vs predicted values, providing insights into model performance.
+
 
 **Future Enhancements**
 
