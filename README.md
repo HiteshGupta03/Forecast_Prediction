@@ -27,8 +27,11 @@ License
 This project focuses on forecasting monthly sales data using time series analysis. Key steps include:
 
 .  Data preprocessing and cleaning.
+
 .  Checking for seasonality and stationarity.
+
 .  Building predictive models.
+
 .  Generating forecasts for future periods.
 
 
